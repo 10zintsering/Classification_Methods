@@ -1,2 +1,2 @@
 # Classification_Methods
-Contains using practical solutions using different classification modelling techniques. 
+Contains practical solutions using different classification modelling techniques for social media ads data. 
